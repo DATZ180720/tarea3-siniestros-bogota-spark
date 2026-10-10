@@ -1,0 +1,4 @@
+# Datos y resultados generados localmente: obtener el CSV desde su fuente pública.
+data/*.csv
+data/resultados_siniestros/
+checkpoints/
